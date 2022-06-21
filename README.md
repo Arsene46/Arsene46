@@ -7,9 +7,11 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+Full stack developer. Recently completed individual and team projects reignited my interest in technology ✨. I have the ability to carry out web projects, keeping in mind that they are scalable and modularizable in order to build them as a team.
+
+Belgian living in Argentina for more than 10 years.
+
+I am passionate about sustainable development, technological progress and space conquest, I see the future of humanity in these topics.
 
 ---
 <h2>📫 How to reach me:</h2>
