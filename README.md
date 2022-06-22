@@ -7,7 +7,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Full stack developer. Recently completed individual and team projects reignited my interest in technology ✨. I have the ability to carry out web projects, keeping in mind that they are scalable and modularizable in order to build them as a team.
+Recently completed individual and team projects reignited my interest in technology ✨. I have the ability to carry out web projects, keeping in mind that they are scalable and modularizable in order to build them as a team.
 
 Belgian living in Argentina for more than 10 years.
 
