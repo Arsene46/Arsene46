@@ -18,7 +18,7 @@ I am passionate about sustainable development, technological progress and space 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arsene-blavier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://wa.me/543764758858" target="_blank">
+<a href="https://wa.me/32456206047" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-2BBB42?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <a href="mailto:arseneblavier46@gmail.com" target="_blank">
