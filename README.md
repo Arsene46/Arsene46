@@ -28,16 +28,19 @@ I am passionate about sustainable development, technological progress and space 
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="center">
-| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | Postman | HTML | CSS | Slack |
+| JavaScript | Typescript | React JS| Redux | Angular | Node JS | Express | PostgreSQL | Sequelize | Mongodb | Postman | HTML | CSS | Slack |
 </p>
 <p align="center">
 <img src="assets\icons\javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+<img src="assets\icons\typescript.png" title="Typescript" alt="Typescript" width="80" height="80"/>&nbsp;
 <img src="assets\icons\react.png" title="React" alt="React" width="80" height="80"/>&nbsp;
 <img src="assets\icons\redux.png" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
+<img src="assets\icons\angular.png" title="Angular" alt="Angular " width="80" height="80"/>&nbsp;
 <img src="assets\icons\nodejs.png" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
 <img src="assets\icons\express.png" title="Express"  alt="Express" width="80" height="80"/>&nbsp;
 <img src="assets\icons\postgresql.png" title="Postgresql"  alt="Postgresql" width="80" height="80"/>&nbsp;
 <img src="assets\icons\sequelize.png" title="Sequelize"  alt="Sequelize" width="80" height="80"/>&nbsp;
+<img src="assets\icons\mongodb.png" title="Mongodb"  alt="Mongodb" width="80" height="80"/>&nbsp;
 <img src="assets\icons\postman.svg" title="Postman"  alt="Postman" width="80" height="80"/>&nbsp;
 <img src="assets\icons\html5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
 <img src="assets\icons\css.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
