@@ -7,11 +7,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Recently completed individual and team projects reignited my interest in technology ✨. I have the ability to carry out web projects, keeping in mind that they are scalable and modularizable in order to build them as a team.
+I excel with strong technical analysis of problems and tasks. I learned that I am very efficient in an organized work environment, for this reason I organize my tasks by objective. I highly value teamwork and communication.
 
-Belgian living in Argentina for more than 10 years.
-
-I am passionate about sustainable development, technological progress and space conquest, I see the future of humanity in these topics.
+I am passionate about sustainable development, technological progress and space conquest. I see the future of humanity in these topics.
 
 ---
 <h2>📫 How to reach me:</h2>
